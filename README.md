@@ -4,6 +4,7 @@ Para ejecutar el programa necesitaras cambiar la ruta de los jars yendo a
  - en Module Path
  - el Jar para lo conexion con la base de datos (mysql-connector-j-9.2.0.jar)
  - y en ClassPath el archivo gson-2.10.1.jar ambos insertados como jars externos.
+
 Tambien se necesita crear la base de datos proporcionada en el propio proyecto
 solamente es abrir el archivo y ejecutar cada sentencia SQL primero
 Lo siguiente seria configurar el archivo config.properties con la ruta 
